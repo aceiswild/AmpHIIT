@@ -1,2 +1,2 @@
 # AmpHIIT
-AmptHIIT is a tabatha fitness timer app
+AmptHIIT is a tabata fitness timer app

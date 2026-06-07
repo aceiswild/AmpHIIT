@@ -5,7 +5,7 @@ Hey, I'm Steve, a solo app and web developer from Canada and the person behind A
 
 I built AmpHIIT because I believe working out, losing weight, and living healthy shouldn't come with a hefty price tag. No subscriptions. No ads. No Wi-Fi needed. Just a clean, powerful Tabata timer that works on your iPhone and Apple Watch completely free.
 
-# Download for iOS
+# Download for iOS & Apple Watch
 Download on the Apple App store for free
 [link here]
 

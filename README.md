@@ -1,5 +1,8 @@
 # AmpHIIT
-AmptHIIT is a tabata fitness timer app
+AmpHIIT Tabata Timer Fitness App
+Hey, I'm Steve, a solo app and web developer from Canada and the person behind AmpHIIT.
+
+I built AmpHIIT because I believe working out, losing weight, and living healthy shouldn't come with a hefty price tag. No subscriptions. No ads. No Wi-Fi needed. Just a clean, powerful Tabata timer that works on your iPhone and Apple Watch completely free.
 
 # Download for iOS
 Download on the Apple App store for free
@@ -7,3 +10,5 @@ Download on the Apple App store for free
 
 # ☕ Buy me a coffee
 https://studio.buymeacoffee.com/dashboard
+
+Building and maintaining AmpHIIT takes real time and effort. If it's helped you get moving, a coffee goes a long way toward keeping the app alive and improving it. Thanks for the support. It genuinely means a lot.

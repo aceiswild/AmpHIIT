@@ -80,7 +80,7 @@ If we ever update this Privacy Policy, the new version will be posted here with 
 If you have any questions about this Privacy Policy, please contact us at:
 
 **Email:** contact@amphiit.com
-**Website:** https://github.com/aceiswild/AmpHIIT
+**Website:** https://amphiit.com
 
 ---
 

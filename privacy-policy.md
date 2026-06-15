@@ -3,7 +3,7 @@
 **AmpHIIT — AmpHIIT Tabata Timer**
 **Effective Date: June 7, 2026**
 **Developer: Steve / AmpHIIT**
-**Contact: sgmayer@telus.net**
+**Contact: contact@amphiit.com**
 
 ---
 
@@ -79,7 +79,7 @@ If we ever update this Privacy Policy, the new version will be posted here with 
 
 If you have any questions about this Privacy Policy, please contact us at:
 
-**Email:** sgmayer@telus.net
+**Email:** contact@amphiit.com
 **Website:** https://github.com/aceiswild/AmpHIIT
 
 ---

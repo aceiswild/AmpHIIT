@@ -45,9 +45,7 @@ The App saves your workout settings (prepare time, work time, rest time, number 
 
 ## Third-Party Services
 
-AmpHIIT contains a link to **Buy Me a Coffee** (buymeacoffee.com) in the Settings screen. This link is entirely optional and only opens if you choose to tap it. If you visit that site, their own privacy policy applies. We do not receive any information about whether you visit or donate.
-
-The App does not integrate with any third-party SDKs, analytics platforms, advertising networks, or social media services.
+AmpHIIT includes an optional Tip Jar using Apple In-App Purchase. Tips are processed by Apple. AmpHIIT does not receive or store payment card details, billing information, or personal payment information.
 
 ---
 

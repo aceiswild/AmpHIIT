@@ -15,8 +15,8 @@ AmpHIIT ("we", "us", "our") is committed to protecting your privacy. This Privac
 
 ## Disclaimer
 
-- **AmpHIIT is a fitness timer, not medical advice.
-- **Exercise within your limits and consult a qualified professional before starting a new workout program.
+AmpHIIT is a fitness timer, not medical advice.
+Exercise within your limits and consult a qualified professional before starting a new workout program.
 
 ---
 

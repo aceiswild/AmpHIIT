@@ -13,3 +13,7 @@ Download on the Apple App store for free
 https://buymeacoffee.com/stevenmayer
 
 Building and maintaining AmpHIIT takes real time and effort. If it's helped you get moving, a coffee goes a long way toward keeping the app alive and improving it. Thanks for the support. It genuinely means a lot.
+
+## Disclaimer
+
+AmpHIIT is a fitness timer, not medical advice. Exercise within your limits and consult a qualified professional before starting a new workout program.

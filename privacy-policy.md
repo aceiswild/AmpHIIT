@@ -1,91 +1,119 @@
 # Privacy Policy
 
-**AmpHIIT — AmpHIIT Tabata Timer**
-**Effective Date: June 7, 2026**
-**Developer: Steve / AmpHIIT**
-**Contact: contact@amphiit.com**
+**AmpHIIT — HIIT & Tabata Timer**  
+**Effective Date: June 21, 2026**  
+**Developer: Steve Mayer / AmpHIIT**  
+**Contact: contact@amphiit.com**  
+**Website: https://amphiit.com**
 
 ---
 
 ## Overview
 
-AmpHIIT ("we", "us", "our") is committed to protecting your privacy. This Privacy Policy explains how the AmpHIIT app ("the App") handles your information. The short version: **we don't collect, store, or share any personal data. Ever.**
+AmpHIIT ("we", "us", or "our") respects your privacy. This Privacy Policy explains how the AmpHIIT app (the "App") handles information.
+
+The short version: **AmpHIIT does not require an account, does not collect personal information, does not use ads, and does not track you.**
 
 ---
 
-## Disclaimer
+## Fitness Disclaimer
 
-AmpHIIT is a fitness timer, not medical advice. Exercise within your limits and consult a qualified professional before starting a new workout program.
+AmpHIIT is a fitness timer. It is not medical advice, a medical device, or a substitute for professional health guidance. Exercise within your limits and consult a qualified professional before starting a new workout program.
 
 ---
 
 ## Information We Do Not Collect
 
-AmpHIIT does not collect, transmit, or store any of the following:
+AmpHIIT does not collect, transmit, sell, or share personal information. The App does not collect:
 
 - **Personal information** — no name, email address, phone number, or account is required
-- **Location data** — the App does not access your GPS or location at any time
-- **Health or fitness data** — the App does not read from or write to Apple Health (HealthKit)
-- **Usage analytics** — we do not track how you use the App, how often you open it, or which features you use
-- **Device identifiers** — we do not collect your device ID, advertising ID, or any hardware identifiers
-- **Crash reports** — we do not use third-party crash reporting tools
-- **Cookies or tracking** — the App contains no cookies, trackers, or fingerprinting of any kind
+- **Location data** — the App does not access GPS or location services
+- **Health or fitness data** — the App does not read from or write to Apple Health / HealthKit
+- **Usage analytics** — we do not track how often you use the App or which features you use
+- **Advertising identifiers** — we do not collect your advertising ID or use ad tracking
+- **Device identifiers** — we do not collect hardware identifiers for tracking
+- **Contacts, photos, camera, or microphone data** — the App does not request access to these permissions
+- **Third-party crash reports** — we do not use third-party crash reporting tools
+- **Cookies or trackers** — the App contains no cookies, trackers, or fingerprinting
 
 ---
 
-## Data Stored Locally on Your Device
+## Information Stored Locally on Your Device
 
-The App saves your workout settings (prepare time, work time, rest time, number of exercises, and audio preferences) **locally on your device only** using Apple's standard UserDefaults storage. This data:
+AmpHIIT saves workout preferences and app settings **locally on your device only** using Apple’s standard local storage, such as UserDefaults.
 
-- Never leaves your device
-- Is never transmitted to us or any third party
-- Can be cleared at any time by deleting the App
+This may include settings such as:
+
+- Prepare, work, and rest timer durations
+- Number of exercises or rounds
+- Audio, beep, voice, and display preferences
+- Whether the first-launch fitness disclaimer has been shown
+
+This information:
+
+- Stays on your device
+- Is not sent to us
+- Is not shared with third parties by AmpHIIT
+- Can be removed by deleting the App from your device
 
 ---
 
-## Third-Party Services
+## Optional Tip Jar / In-App Purchases
 
-AmpHIIT includes an optional Tip Jar using Apple In-App Purchase. Tips are processed by Apple. AmpHIIT does not receive or store payment card details, billing information, or personal payment information.
+AmpHIIT includes an optional Tip Jar using Apple In-App Purchase. Tips are voluntary, processed by Apple, and do not unlock any features.
+
+AmpHIIT does not receive or store your payment card number, billing address, Apple ID password, or other personal payment details. Apple processes purchases according to Apple’s own terms and privacy policy.
+
+For purchase processing, support, and reporting, Apple and StoreKit may provide limited purchase-related information, such as product identifier, transaction status, transaction identifier, purchase date, country or region, and related App Store reporting information. AmpHIIT uses this only to process optional tips and does not use it for tracking or advertising.
 
 ---
 
 ## Apple Platform Services
 
-The App uses the following Apple system frameworks, which operate entirely on-device:
+The App uses Apple system frameworks to provide core app features:
 
 - **AVFoundation / AVSpeechSynthesizer** — for audio beeps and voice coaching
-- **WatchConnectivity** — not currently used (phone and Watch operate independently)
-- **UserDefaults** — for local settings storage only
+- **StoreKit** — for optional Apple In-App Purchase tips
+- **UserDefaults** — for local settings storage on your device
 
-All of these frameworks are governed by [Apple's Privacy Policy](https://www.apple.com/legal/privacy/).
+The current iPhone release does not use HealthKit, location services, microphone access, advertising tracking, or third-party analytics.
 
----
-
-## Children's Privacy
-
-AmpHIIT does not collect any data from anyone, including children under the age of 13. The App is safe for use by all ages.
+Apple platform services are governed by Apple’s Privacy Policy:  
+https://www.apple.com/legal/privacy/
 
 ---
 
-## Advertising
+## Children’s Privacy
 
-**There are no advertisements in AmpHIIT.** We do not work with any ad networks and your data is never sold or shared for advertising purposes.
+AmpHIIT does not knowingly collect personal information from anyone, including children under the age of 13. Because the App does not require an account and does not collect personal information, there is no personal information for us to knowingly collect from children.
 
 ---
 
-## Changes to This Policy
+## Advertising and Tracking
 
-If we ever update this Privacy Policy, the new version will be posted here with a revised effective date. Since we collect no data, we do not anticipate material changes.
+AmpHIIT contains no advertisements. We do not work with ad networks, sell user data, or use tracking for advertising purposes.
+
+---
+
+## Data Sharing
+
+AmpHIIT does not sell, rent, trade, or share personal information with third parties. Since the App does not collect personal information, we do not have personal information to share.
+
+---
+
+## Changes to This Privacy Policy
+
+We may update this Privacy Policy if the App changes or if legal, technical, or App Store requirements change. Any updated version will be posted with a revised effective date.
 
 ---
 
 ## Contact
 
-If you have any questions about this Privacy Policy, please contact us at:
+If you have any questions about this Privacy Policy, please contact us:
 
-**Email:** contact@amphiit.com
+**Email:** contact@amphiit.com  
 **Website:** https://amphiit.com
 
 ---
 
-*AmpHIIT is free, contains no ads, and respects your privacy completely.*
+*AmpHIIT is designed to be simple, private, and respectful of your data.*

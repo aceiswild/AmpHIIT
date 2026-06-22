@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**AmpHIIT — HIIT & Tabata Timer**  
+**AmpHIIT - HIIT & Tabata Timer**  
 **Effective Date: June 21, 2026**  
 **Developer: Steve Mayer / AmpHIIT**  
 **Contact: contact@amphiit.com**  

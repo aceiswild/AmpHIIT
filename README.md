@@ -7,7 +7,7 @@ I built AmpHIIT because I believe working out, losing weight, and living healthy
 
 # Download for iOS & Apple Watch
 Download on the Apple App store for free
-[link here]
+https://apps.apple.com/us/app/amphiit/id6784050589
 
 # Buy me a coffee ☕
 https://buymeacoffee.com/stevenmayer
